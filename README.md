@@ -4,15 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divya5003&label=Profile%20views&color=0e75b6&style=flat" alt="divya5003" /> </p>
 
-- 🔭 I'm an upbeat and skilled **Web Developer**
+- 🔭 I'm an upbeat, passionate, and skilled **Web Developer**
 
-- 🌱 I’m currently exploring **Docker and AWS**
+- 🌱 I’m currently learning **Cloud and Edge computing**
 
 - 🤝 I’m looking to collaborate on **MERN stack projects**
+
+- 👨‍💻 All of my projects are available at [My Portfolio](http://divya-m-portfolio.vercel.app/)
 
 - 💬 Ask me about **ReactJS, Node.js, Express.js, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **divyamahajan5003@gmail.com**
+
+- 📄 Here's my [Resume](https://drive.google.com/file/d/1HIPqGIwGCShJLLGsaUxyT6p1k1quuxxx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
