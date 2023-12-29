@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divya Mahajan</h1>
-
-<br>
 <h3 align="center">A passionate full stack developer from India</h3>
-<br>
 
 <img align="right" alt="Coding" width="350" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/79277/girl-working-on-computer-clipart-md.png">
 
